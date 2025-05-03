@@ -1,0 +1,5 @@
+id_tipo_renta_tenencia,Tipo_Renta
+1,Renta neta media por persona
+2,Renta media por unidad de consumo
+3,Renta media por persona (con alquiler imputado)
+4,Renta media por unidad de consumo (con alquiler imputado)
