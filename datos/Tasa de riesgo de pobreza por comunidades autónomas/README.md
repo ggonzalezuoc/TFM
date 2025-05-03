@@ -1,12 +1,12 @@
-# Renta por persona y unidad de consumo por tipo de hogar
+# Tasa de riesgo de pobreza por comunidades autónomas
 
 ## Descripción
-Esta carpeta contiene las tablas de hechos y dimensiones correspondientes al conjunto de datos **Renta por persona y unidad de consumo por tipo de hogar**, obtenidos del Instituto Nacional de Estadística (INE) y modelados para su análisis en Power BI.
+Esta carpeta contiene las tablas de hechos y dimensiones correspondientes al conjunto de datos **Tasa de riesgo de pobreza por comunidades autónomas**, obtenidos del Instituto Nacional de Estadística (INE) y modelados para su análisis en Power BI.
 
 ## Origen de los datos
 - Fuente: Instituto Nacional de Estadística (INE)
 - Método de obtención: API pública del INE
-- Tema: Renta por persona y unidad de consumo por tipo de hogar
+- Tema: Tasa de riesgo de pobreza por comunidades autónomas
 
 ## Transformaciones realizadas
 - Descarga de datos desde la API del INE en formato JSON.
@@ -15,8 +15,7 @@ Esta carpeta contiene las tablas de hechos y dimensiones correspondientes al con
 - Creación de tablas de hechos y dimensiones para modelado relacional.
 
 ## Archivos incluidos
-- Tabla de hechos y dos tablas de dimensiones sobre la renta por persona y unidad de consumo por tipo de hogar.
+- Tabla de hechos y dos tablas de dimensiones sobre la tasa de riesgo de pobreza por comunidades autónomas.
 
 ## Última actualización
 3 de May de 2025
-
