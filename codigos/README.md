@@ -31,18 +31,7 @@ Para cada dataset:
   - Una o varias tablas de **dimensiones** con las categorías (ej. tipo de hogar, régimen de tenencia, comunidad autónoma).
 
 ## Estructura de salida
-Los datos se guardan en carpetas organizadas por tema. Dentro de cada una se encuentran:
-
-[Carpeta temática]/
-│
-├── fact/
-│ └── fact_[tema].csv
-│
-└── dims/
-├── dim_[nombre_1].csv
-└── dim_[nombre_2].csv
-
-Cada carpeta incluye además su propio `README.md`.
+Los datos se guardan en carpetas organizadas por tema. Dentro de cada una se encuentran las tablas de hechos y dimensiones.
 
 ## Dependencias
 - `pandas`
