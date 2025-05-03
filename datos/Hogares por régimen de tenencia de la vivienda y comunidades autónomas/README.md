@@ -15,7 +15,7 @@ Esta carpeta contiene las tablas de hechos y dimensiones correspondientes al con
 - Creación de tablas de hechos y dimensiones para modelado relacional.
 
 ## Archivos incluidos
-- tabla de hechos y dos tablas de dimensiones sobre el régimen de tenencia de la vivienda por comunidad autónoma.
+- Tabla de hechos y dos tablas de dimensiones sobre el régimen de tenencia de la vivienda por comunidad autónoma.
 
 ## Última actualización
 3 de May de 2025
