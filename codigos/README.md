@@ -33,3 +33,29 @@ Para cada dataset:
 ## Estructura de salida
 Los datos se guardan en carpetas organizadas por tema. Dentro de cada una se encuentran:
 
+[Carpeta temática]/
+│
+├── fact/
+│ └── fact_[tema].csv
+│
+└── dims/
+├── dim_[nombre_1].csv
+└── dim_[nombre_2].csv
+
+Cada carpeta incluye además su propio `README.md`.
+
+## Dependencias
+- `pandas`
+- `requests`
+- `os`
+
+## Aplicación final
+Estos datasets están preparados para:
+- Visualización interactiva en Power BI
+- Análisis exploratorio y predictivo con modelos estadísticos o de machine learning
+
+## Última actualización
+3 de mayo de 2025
+
+
+
