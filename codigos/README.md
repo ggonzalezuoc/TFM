@@ -1,4 +1,4 @@
-# etl_data.ipynb
+# Estructura de los códigos
 
 ## Descripción
 Este notebook contiene un proceso completo de **extracción, transformación y carga (ETL)** de diversos conjuntos de datos obtenidos desde la API del Instituto Nacional de Estadística (INE). Los datos se relacionan principalmente con indicadores de renta, pobreza, tenencia de la vivienda y carencia material. El objetivo es estructurarlos en un formato analítico adecuado para generar un modelo relacional en Power BI y realizar un modelo predictivo en python.
@@ -52,7 +52,7 @@ Además del tratamiento de datos, se incluye un modelo predictivo desarrollado c
 Estos modelos permiten tanto la interpretación de factores clave como la generación de predicciones para apoyar el análisis de tendencias.
 
 ## Última actualización
-3 de mayo de 2025
+18 de mayo de 2025
 
 
 
