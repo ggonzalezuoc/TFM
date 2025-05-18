@@ -43,6 +43,14 @@ Estos datasets están preparados para:
 - Visualización interactiva en Power BI
 - Análisis exploratorio y predictivo con modelos estadísticos o de machine learning
 
+## Modelo predictivo
+Además del tratamiento de datos, se incluye un modelo predictivo desarrollado con los siguientes enfoques:
+
+- **Modelos explicativos multivariantes:** Regresión lineal y Random Forest para analizar la influencia de distintas variables en la tasa de pobreza.
+- **Modelos de series temporales:** Prophet para la proyección de la tasa de pobreza por régimen de tenencia de la vivienda hasta el año 2026.
+
+Estos modelos permiten tanto la interpretación de factores clave como la generación de predicciones para apoyar el análisis de tendencias.
+
 ## Última actualización
 3 de mayo de 2025
 
