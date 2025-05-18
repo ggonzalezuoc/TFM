@@ -17,7 +17,7 @@ Este proyecto analiza la relación entre la renta disponible de los hogares y el
 ## Visualización interactiva
 
 Puedes acceder al informe de Power BI publicado en la nube aquí:  
-🔗 [Enlace al visor de Power BI](https://app.powerbi.com/...)
+🔗 [Enlace al visor de Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjgzNWMxYjctYTYwOS00MDA5LWJkZjgtYzcwYjQ0MGViN2FkIiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)
 
 ## Código fuente y análisis
 
