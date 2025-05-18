@@ -26,6 +26,6 @@ Accede a los notebooks de transformación y modelado en:
 
 ## Autor
 
-Gabriel González García
-Universidad: Universitat Oberta de Catalunya
-Contacto: ggonzalezgarcia@uoc.edu
+**Gabriel González García**  
+Universitat Oberta de Catalunya  
+📧 ggonzalezgarcia@uoc.edu
